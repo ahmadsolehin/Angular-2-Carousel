@@ -81,3 +81,5 @@ import { Ng2CarouselamosModule } from 'ng2-carouselamos';
 ```
 
 ## screenshot
+
+![nn](https://user-images.githubusercontent.com/12325386/28809358-914b365a-76b5-11e7-9491-5856e7d781f7.JPG)
